@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=544
+
+Flying accent support for vim. When enabled (using :M command) you may type
+a' (an 'a' letter and an apostrophe) to have an 'á' character on screen. It's a bit like dead characters, but you type the accent after the letter, which is much more intuitive in my opinion.
+ 
+Disabled by default, may be turned on/off using the :M command. Currently only Hungarian characters are present, but it's easy to add new ones.
+
